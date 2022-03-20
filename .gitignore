@@ -4,3 +4,4 @@ infrastructure/.terraform
 *.lock.hcl
 *.txt
 *.csv
+.DS_Store
