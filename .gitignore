@@ -1,2 +1,6 @@
-dados_rais
 *.env
+*.exe
+infrastructure/.terraform
+*.lock.hcl
+*.txt
+*.csv
